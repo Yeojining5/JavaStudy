@@ -1,7 +1,7 @@
 package Example;
 
 public class Exercise04 {
-
+ 
 	public static void main(String[] args) {
 		
 		while(true) { // 무한루프
