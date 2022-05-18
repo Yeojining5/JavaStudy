@@ -13,6 +13,7 @@ public class ArrayCreateByValuListExample1 {
 		int sum = 0;
 		for(int i=0; i<3; i++) {
 			sum += scores[i];
+			System.out.println(sum);
 		}
 		System.out.println("총합 : " + sum);
 		double avg = (double) sum / 3;
