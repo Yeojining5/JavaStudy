@@ -8,7 +8,6 @@ public class Main1000 {
 		Scanner sc = new Scanner(System.in);
 		int A = sc.nextInt();
 		String B = sc.next();
-		char c = ' ';
 		
 		System.out.println(A * (B.charAt(2)-'0'));
 		System.out.println(A * (B.charAt(1)-'0'));
